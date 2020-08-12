@@ -1,0 +1,10 @@
+Chocolate|15000.00
+Chocolate|15000.00
+Chocolate|15000.00
+Chocolate|15000.00
+Chocolate|15000.00
+Biscuits|6000.00
+Chips|8000.00
+Tango|10000.00
+Oreo|12000.00
+Chocolate|15000.00
